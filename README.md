@@ -20,5 +20,15 @@ npm run build
 npm run lint
 ```
 
+# We need to install the npm server for the App to work
+```
+Please cd /src/views/server
+
+npm install
+
+npm start
+
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

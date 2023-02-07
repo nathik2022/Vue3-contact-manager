@@ -86,7 +86,7 @@ import { ContactService } from '@/services/ContactService';
 import SpinnerComp from '@/components/SpinnerComp.vue';
 
     export default {
-  components: { SpinnerComp },
+        components: { SpinnerComp },
         name:"ContactManager",
         data : function (){
             return {
